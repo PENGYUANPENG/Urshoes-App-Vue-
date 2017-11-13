@@ -1,0 +1,40 @@
+{
+	"list":[
+		{
+			"src":"http://shihuo.hupucdn.com/groupon.admin.cover/20171102/eb1a871df0bc6c8bc9fc4e32c90f8e421509607287.jpg?imageView2/1/w/365/h/365",
+			"title":"Nike Soldier11 勒布朗LBJ士兵11",
+			"price":"679",
+			"oprice":"1199"
+		},
+		{
+			"src":"http://shihuo.hupucdn.com/groupon.admin.cover/20171103/d080138c0092092059fd481c9d31c4271509722791.jpg?imageView2/1/w/300/h/300",
+			"title":"Adidas 彭于晏 上身款 保暖 棉服 ",
+			"price":"298",
+			"oprice":"1199"
+		},
+		{
+			"src":"http://shihuo.hupucdn.com/groupon.admin.cover/20171103/65a489b8c0c2e796b4521938cf79f7f31509639891.jpg?imageView2/1/w/300/h/300",
+			"title":"Adidas 三叶草 运动休闲防风衣 邓超同款",
+			"price":"169",
+			"oprice":"699"
+		},
+		{
+			"src":"http://shihuo.hupucdn.com/groupon.admin.cover/20171103/68b05e68afee0189d02f451954aa1d181509723526.jpg?imageView2/1/w/300/h/300",
+			"title":"Adidas/阿迪达斯 Harden Vol.1 ",
+			"price":"749",
+			"oprice":"1399"
+		},
+		{
+			"src":"http://shihuo.hupucdn.com/groupon.admin.cover/20171102/685e0d534fc1d01648596181590404141509635332.jpg?imageView2/1/w/300/h/300",
+			"title":"Nike Kobe AD GS 科比12 女子 大童 ",
+			"price":"349",
+			"oprice":"899"
+		},
+		{
+			"src":"http://shihuo.hupucdn.com/groupon.admin.cover/20171102/cc6b09ad7f05487182d0a4891d77e2841509628186.jpg?imageView2/1/w/300/h/300",
+			"title":"耐克Nike Incursion Mid黑白奥利奥",
+			"price":"298",
+			"oprice":"599"
+		}
+	]
+}
